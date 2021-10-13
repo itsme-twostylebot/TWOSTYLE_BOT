@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="twostylebot.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="twostylebot. jpg" src="https://img.shields.io/badge/TWOSTYLE_BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="twostylebot.jpg" src="https://img.shields.io/badge/TWOSTYLE_BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/itsme-twostylebot"><img title="Author" src="https://img.shields.io/badge/Author-itsme-twostylebot/TWOSTYLE_BOT?color=blue&style=for-the-badge&logo=whatsapp"></a>
