@@ -1,4 +1,4 @@
-/dev/block/
+
 <div align="center">
   <img border-radius: 15px src="twostylebot.jpg" width="200" height="200"/>
   <p align="center">
@@ -66,7 +66,7 @@ $ node twostyle.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IlfsIpchwGV0w4EdVO3PFX)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsme-twostylebot&repo=TWOSTYLE_BOT&theme=nightowl)](https://github.com/itsme-twostylebot/TWOSTYLE_BOT)
