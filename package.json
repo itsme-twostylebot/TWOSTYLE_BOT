@@ -1,8 +1,8 @@
 {
-  "name": "JulieMwol",
+  "name": "TWOSTYLE_BOT",
   "version": "7.3.6",
-  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-  "main": "./Julie-Mwol/bot.js",
+  "description": "TWOSTYLE_BOTis the Modified Version of WhatsAsena, Made By @itsme-twostylebot with Baileys.",
+  "main": "./TWOSTYLE-BOT/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
