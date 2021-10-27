@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/itsme-twostylebot">itsme-twostyle
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsme-twostylebot/TWOSTYLE_BOT) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@itsme-twostylebot/TWOSTYLE_BOT)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
 ### The Hard Method
 ```js
